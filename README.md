@@ -6,3 +6,5 @@ Please refere to the following [GIST](https://github.com/wizelineacademy/react-g
 # This is our first commit
 
 #second commit
+
+# thrid comment
